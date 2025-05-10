@@ -10,7 +10,7 @@ To use any of the guides:
 2. Copy the selected file into your CS2 `annotations` folder:
 
 
-(Adjust the path based on your installation directory.)
+
 
 ## Map Guide List
 
@@ -24,8 +24,6 @@ To use any of the guides:
 | ⬜ Vertigo   | ❌        | _Coming soon_             |
 | ⬜ Ancient   | ❌        | _Coming soon_             |
 | ⬜ Anubis    | ❌        | _Coming soon_             |
-
-> Use ☑️ to indicate guides you’ve installed, and ✅/❌ to track availability in the repo.
 
 ---
 
