@@ -1,0 +1,17 @@
+
+Last updated on 10-05-25
+
+[Console] name                                value  default  flags                   help text
+[Console] ___________________________________ ______ ________ _______________________ _____________________________________________________________________________________________________________________________
+[Console] annotation_append                                    client                 Load annotation to a file without clearing existing annotations
+[Console] annotation_auto_load                false            client
+[Console] annotation_clear                                     client                 Clear all annotation
+[Console] annotation_create                                    client                 Creates an annotation
+[Console] annotation_delete_previous_node_set                  client                 Delete the last node set created
+[Console] annotation_load                                      client                 Load annotation to a file after first clearing existing annotations
+[Console] annotation_reload                                    client                 Reload the annotation file
+[Console] annotation_reload_language_file                      client                 Creates an annotation
+[Console] annotation_save                                      client                 Save annotation to a file
+[Console] sv_allow_annotations                false            game client replicated Allow clients to use the annotation system on the server.
+[Console] ui_playsettings_listen_annotations  0                client archive
+[Console] workshop_annotation_submit                           client                 Submit annotation to workshop. To update an existing submission add its ID number from the workshop URL as a second argument
